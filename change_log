@@ -1,0 +1,1 @@
+alter table power_tracker add unique index (created_at);
